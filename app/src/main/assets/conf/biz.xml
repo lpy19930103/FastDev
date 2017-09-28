@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<runtime>
+    <bizs>
+        <biz name="主页" class="com.fastdev.main.home.HomeFragment" color="#FDFDFD"
+            icon="nav_normal_product_recommend" needLogin="false" pressedColor="#FDFDFD"
+            pressedIcon="nav_pressed_product_recommend" textColor="#999999"
+            textPressedColor="#14AE67" url="" />
+        <biz name="奖惩" class="com.fastdev.main.home.HomeFragment" color="#FDFDFD"
+            icon="nav_normal_finance_list" needLogin="true" pressedColor="#FDFDFD"
+            pressedIcon="nav_pressed_finance_list" textColor="#999999" textPressedColor="#14AE67"
+            url="" />
+        <biz name="奖惩" class="com.fastdev.main.home.HomeFragment" color="#FDFDFD"
+            icon="nav_normal_finance_list" needLogin="true" pressedColor="#FDFDFD"
+            pressedIcon="nav_pressed_finance_list" textColor="#999999" textPressedColor="#14AE67"
+            url="" />
+        <biz name="奖惩" class="com.fastdev.main.home.HomeFragment" color="#FDFDFD"
+            icon="nav_normal_finance_list" needLogin="true" pressedColor="#FDFDFD"
+            pressedIcon="nav_pressed_finance_list" textColor="#999999" textPressedColor="#14AE67"
+            url="" />
+        <biz name="设置" class="com.fastdev.main.home.HomeFragment" color="#FDFDFD"
+            icon="nav_normal_finance_list" needLogin="false" pressedColor="#FDFDFD"
+            pressedIcon="nav_pressed_finance_list" textColor="#999999" textPressedColor="#14AE67"
+            url="" />
+    </bizs>
+</runtime>

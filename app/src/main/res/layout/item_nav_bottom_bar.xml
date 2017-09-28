@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="120dp"
+    android:orientation="vertical"
+    android:layout_height="49dp"
+    android:layout_weight="1"
+    android:gravity="center"
+    android:background="#72de9c">
+
+    <ImageView
+        android:layout_marginTop="6dp"
+        android:id="@+id/nav_image"
+        android:layout_width="23.8dp"
+        android:layout_height="23.8dp"/>
+
+    <TextView
+        android:id="@+id/nav_name"
+        android:layout_marginTop="3dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#999999"
+        android:textSize="10sp"/>
+</LinearLayout>
